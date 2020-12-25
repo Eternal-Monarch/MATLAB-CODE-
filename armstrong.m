@@ -9,7 +9,7 @@ h=fprintf('%d',x); %% it return number of digits
      x = (x-t)/10;
    end
 if(y==temp)
-    disp( 'Amstrong'); 
+    disp( '  Amstrong'); 
 else
     disp(' not amstrong'); 
 end
